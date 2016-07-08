@@ -1,4 +1,4 @@
 {"ok":true, 
-"email":"adrian.lu@partner.samsung.com", 
-"firstname":"Adrian", 
-"lastname":"Lu"}
+"email":"jimmy@spam.com", 
+"firstname":"Jimmy", 
+"lastname":"John"}
