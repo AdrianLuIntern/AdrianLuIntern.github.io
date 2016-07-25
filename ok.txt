@@ -1,4 +1,4 @@
 {"ok":true, 
-"email":"adrian.lu95@gmail.com", 
-"firstname":"Human", 
-"lastname":"Developer"}
+"email":"adrian.lu@partner.samsung.com", 
+"firstname":"APK", 
+"lastname":"Certifier"}
