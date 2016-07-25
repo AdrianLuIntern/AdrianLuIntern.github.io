@@ -1,4 +1,1 @@
-{"ok":true, 
-"email":"adrian.lu@partner.samsung.com", 
-"firstname":"APK", 
-"lastname":"Certifier"}
+{"ok":true, "email":"example@sample.com", "firstname":"John", "lastname":"Appleseed"}
