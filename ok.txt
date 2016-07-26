@@ -1,1 +1,1 @@
-{"ok":true, "email":"adrian.lu95@gmail.com", "firstname":"Human", "lastname":"Developer"}
+{"ok":true, "email":"example@sample.com", "firstname":"John", "lastname":"Appleseed"}
