@@ -1,1 +1,1 @@
-{"ok":true, "email":"abraham.kang@samsung.com", "firstname":"Abe", "lastname":"Kang"}
+{"ok":true, "email":"adrian.lu95@gmail.com", "firstname":"Adrian", "lastname":"Developer"}
